@@ -30,6 +30,6 @@ console.log("third object:", obj3);
 
 // Copying only part of an array/object
 
-let arr5 = [...arr1, { ...obj1}, ...arr3, "x", "y", "z"]; // conatins all elements of each array and object declared plus additional values
+let arr5 = [...arr1, { ...obj1}, ...arr3, "x", "y", "z"]; // contains all elements of each array and object declared plus additional values
 console.log(arr5);
 
